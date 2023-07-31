@@ -1,5 +1,3 @@
-# TimeSeries
+# TimeSeries Forecasting
 
-TFT
-DEEPAR
-TransFormer
+TFT, DEEPAR, TransFormer 
